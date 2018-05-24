@@ -1,1 +1,2 @@
 int jooj();
+int outrafuncao();
